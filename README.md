@@ -1,5 +1,4 @@
 # luzvero11.gitthub.com
-Mi curriculum
 <!DOCTYPE html>
 <html>
   <head>
