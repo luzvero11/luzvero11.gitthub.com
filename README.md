@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mi portafolio personal</title>
+    <title><h1>Mi portafolio personal</h1>h1></title>
   </head>
   <body>
     <header>
